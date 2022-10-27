@@ -16,5 +16,6 @@ This site is currently under development, with more content being added over the
 
 My other websites:
 
-[Stumped!](www.stumpedgame.com) - A multiplayer, online cricket-management game
-[RainSoon](www.rainsoon.co.uk) - Probabilistic weather forecasts for the UK, based on post-processing Met Office forecasts.
+[Stumped!](http://www.stumpedgame.com) - A multiplayer, online cricket-management game.  
+[RainSoon](http://www.rainsoon.co.uk) - Probabilistic weather forecasts for the UK, based on post-processing Met Office forecasts.   
+

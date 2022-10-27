@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=j_HyUiQAAAAJ&hl=en"
   email            : "aibarrett.web@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "aibarrett.github.io"
+  uri              : ""
   bitbucket        : 
   codepen          :
   dribbble         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "AIBarrett"
+  youtube          :
   wikipedia        :
 
 
